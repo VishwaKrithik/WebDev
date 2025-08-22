@@ -1,0 +1,22 @@
+.btn {
+    background-color: transparent;
+}
+
+.btn-PlusMinus {
+    border: none;
+    color: black;
+    font-size: 60px;
+}
+
+.btn-PlusMinus:hover {
+    transform: scale(1.1);
+}
+
+.btn-FarCel {
+    background-color: black;
+    color: white;
+    border: none;
+    width: 40px;
+    border-radius: 30px;
+    font-size: 24px;
+}

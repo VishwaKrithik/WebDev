@@ -1,0 +1,7 @@
+.tempDisplay {
+    border: 2px solid black;
+    padding: 5px 5px;
+    border-radius: 15px;
+    font-size: 24px;;
+    color: black;
+}

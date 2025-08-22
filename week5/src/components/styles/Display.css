@@ -1,0 +1,21 @@
+.Display {
+    display:flex;
+    flex-direction: column;
+    gap: 30px;
+    width:max-content;
+    border: 3px solid black;
+    padding: 30px 30px;
+    border-radius: 10px;
+    background-color: blue;
+}
+
+.innerDisplay {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.innerDisplay2 {
+    display: flex;
+    justify-content: center;
+}
